@@ -30,3 +30,6 @@ Ensure the following tools are installed:
 - **Sublist3r**:  
   ```bash
   pip install sublist3r
+
+##⚠️ Disclaimer
+This script is intended for educational and ethical hacking purposes only. Use it responsibly and only on domains you own or have explicit permission to test.
